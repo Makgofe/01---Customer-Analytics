@@ -1,6 +1,6 @@
 # Olist E-Commerce Customer Analytics
 
-### Customer Segmentation, Purchasing Behavior and Retention Analysis
+### Customer Segmentation, Purchasing Behaviour and Retention Analysis
 
 **Tools:** PostgreSQL | Python | pandas | seaborn | matplotlib | VS Code | Jupyter Notebook
 
